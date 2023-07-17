@@ -1,16 +1,14 @@
 ### Hi there 👋
+![](https://media.licdn.com/dms/image/C4D16AQGFUusK6QdSXQ/profile-displaybackgroundimage-shrink_350_1400/0/1657825695711?e=1695254400&v=beta&t=sZCiZBBWqXfVqr_apKfkCuJ7GvxVn7UshFg9rZWb7pw)
 
-<!--
-**AnmolChoubey2110/AnmolChoubey2110** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Anmol this side !! I really love competitive coding and playimg with designs and ideas when I am creating a UI UX design or graphics design in general . I have also worked on projects related to machine learning , data analytics and data engineering .
 
-Here are some ideas to get you started:
+## Skills and Experience
+* ⚛ C++
+* 📱 Python
+* 💻 HTML, CSS
+  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
