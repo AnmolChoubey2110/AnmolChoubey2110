@@ -7,7 +7,12 @@ Anmol this side !! I really love competitive coding and playimg with designs and
 * ⚛ C++
 * 📱 Python
 * 💻 HTML, CSS
-  
+
+
+
+
+
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anmolChoubey2110&layout=donut-vertical)](https://github.com/anmolChoubey2110/github-readme-stats)
 
 
 
